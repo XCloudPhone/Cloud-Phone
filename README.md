@@ -35,7 +35,7 @@ With a system of real Android devices running the latest versions, XCloudPhone h
 XCloudPhone offers interfaces and documentation supporting many popular languages, helping global users easily access and use the service. The currently supported languages include:
 
 - [Vietnamese](https://xcloudphone.com/vi)  
-- [English](https://xcloudphone.com/en)  
+- [English](https://xcloudphone.com/)  
 - [Chinese (Simplified)](https://xcloudphone.com/zh-Hans)  
 - [Chinese (Traditional)](https://xcloudphone.com/zh-Hant)  
 - [Thai](https://xcloudphone.com/th)  
