@@ -1,6 +1,6 @@
 # XCloudPhone - Giải Pháp Thuê Điện Thoại Android Thật Trên Cloud
 
-![XCloudPhone Logo](https://xcloudphone.com/icons/xcloudphonelogo.svg)
+<img src="https://xcloudphone.com/icons/xcloudphonelogo.svg" alt="XCloudPhone Logo" style="width:100px;" />
 ## Giới thiệu
 
 XCloudPhone là nền tảng cho phép bạn thuê **điện thoại Android thật trên cloud** với chất lượng cao, phục vụ đa dạng nhu cầu từ MMO, kiểm thử ứng dụng, đến tự động hóa marketing và chơi game mượt mà 24/7.
