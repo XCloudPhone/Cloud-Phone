@@ -1,31 +1,60 @@
-# XCloudPhone - Giải Pháp Thuê Điện Thoại Android Thật Trên Cloud
+# XCloudPhone - The Real Android Phone Rental Solution on Cloud
 
 <img src="https://xcloudphone.com/icons/xcloudphonelogo.svg" alt="XCloudPhone Logo" style="width:100px;" />
-## Giới thiệu
 
-XCloudPhone là nền tảng cho phép bạn thuê **điện thoại Android thật trên cloud** với chất lượng cao, phục vụ đa dạng nhu cầu từ MMO, kiểm thử ứng dụng, đến tự động hóa marketing và chơi game mượt mà 24/7.
+## Introduction
 
-Với hệ thống thiết bị Android thật, chạy phiên bản mới nhất, XCloudPhone giúp người dùng tận dụng tối đa khả năng của điện thoại vật lý mà không cần phải sở hữu máy.
+XCloudPhone is a platform that allows you to rent **real Android phones on the cloud** with high quality, serving a wide range of needs from MMO, app testing, to marketing automation and smooth 24/7 gaming.
 
-## Tính năng nổi bật
+With a system of real Android devices running the latest versions, XCloudPhone helps users fully utilize the capabilities of physical phones without the need to own them.
 
-- Sử dụng thiết bị Android thật, không phải giả lập, đảm bảo độ ổn định và hiệu năng tối ưu  
-- Hỗ trợ tự động hóa và điều khiển từ xa mà không cần root thiết bị  
-- Gói thuê linh hoạt, phù hợp từ cá nhân đến doanh nghiệp với mức chi phí cạnh tranh  
-- Tương thích tốt với các nền tảng quảng cáo Facebook, TikTok, WhatsApp và nhiều ứng dụng MMO phổ biến  
-- Hỗ trợ chạy game Android không giới hạn thời gian, không lo nóng máy hay gián đoạn  
-- API mạnh mẽ cho phép tích hợp và quản lý thiết bị dễ dàng trong các dự án tự động hóa  
+## Key Features
 
-## Ứng dụng
+- Uses real Android devices, not emulators, ensuring stability and optimal performance  
+- Supports automation and remote control without rooting the devices  
+- Flexible rental plans suitable for individuals to enterprises with competitive pricing  
+- Highly compatible with advertising platforms such as Facebook, TikTok, WhatsApp, and many popular MMO applications  
+- Supports unlimited Android gaming time, without overheating or interruptions  
+- Powerful API enabling easy integration and device management in complex automation projects  
 
-- Thuê điện thoại cloud để xây dựng phone farm MMO  
-- Kiểm thử phần mềm trên thiết bị Android thật đa dạng mẫu mã và phiên bản  
-- Tự động hóa marketing đa kênh trên điện thoại thật  
-- Chơi game Android với trải nghiệm mượt mà và ổn định  
+## Applications
 
-## Bắt đầu với XCloudPhone
+- Renting cloud phones to build MMO phone farms  
+- Testing software on diverse real Android devices with various models and versions  
+- Multi-channel marketing automation on real phones  
+- Playing Android games with smooth and stable experience  
+
+## Contact & Resources
+
+- Official Website: [https://xcloudphone.com](https://xcloudphone.com)  
+- Source Code Repository: [https://github.com/xcloudphone/](https://github.com/xcloudphone/)  
+# Please refer to the detailed instructions in the README for installation and usage
+
+## Multilingual Support
+
+XCloudPhone offers interfaces and documentation supporting many popular languages, helping global users easily access and use the service. The currently supported languages include:
+
+- [Vietnamese](https://xcloudphone.com/vi)  
+- [English](https://xcloudphone.com/en)  
+- [Chinese (Simplified)](https://xcloudphone.com/zh-Hans)  
+- [Chinese (Traditional)](https://xcloudphone.com/zh-Hant)  
+- [Thai](https://xcloudphone.com/th)  
+- [Japanese](https://xcloudphone.com/ja)  
+- [Korean](https://xcloudphone.com/ko)  
+- [Hindi](https://xcloudphone.com/hi)  
+- [Arabic](https://xcloudphone.com/ar)  
+- [Spanish](https://xcloudphone.com/es)  
+- [Portuguese (Brazil)](https://xcloudphone.com/pt-BR)  
+- [Russian](https://xcloudphone.com/ru)  
+- [French](https://xcloudphone.com/fr)  
+- [Indonesian](https://xcloudphone.com/id)  
+- [German](https://xcloudphone.com/de)  
+
+You can visit each link to switch the interface language and find detailed information about XCloudPhone services in your preferred language.
+
+## Getting Started with XCloudPhone
 
 ```bash
 git clone https://github.com/xcloudphone/xcloudphone.git
 cd xcloudphone
-# Tham khảo hướng dẫn chi tiết trong README để cài đặt và sử dụng
+# Refer to the detailed instructions in the README to install and use
