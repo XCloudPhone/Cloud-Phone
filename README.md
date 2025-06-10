@@ -51,6 +51,32 @@ XCloudPhone offers interfaces and documentation supporting many popular language
 - [German](https://xcloudphone.com/de)  
 
 You can visit each link to switch the interface language and find detailed information about XCloudPhone services in your preferred language.
+## Connect with XCloudPhone on Social Media
+
+Stay updated and follow us on our official social media channels and profiles:
+
+- YouTube: [https://www.youtube.com/@xcloudphone](https://www.youtube.com/@xcloudphone)  
+- Vimeo: [https://vimeo.com/xcloudphone](https://vimeo.com/xcloudphone)  
+- GitHub: [https://github.com/XCloudPhone](https://github.com/XCloudPhone)  
+- About.me: [https://about.me/xcloudphone](https://about.me/xcloudphone)  
+- Facebook: [https://www.facebook.com/xcloudphone/](https://www.facebook.com/xcloudphone/)  
+- Gravatar: [https://gravatar.com/xcloudphone](https://gravatar.com/xcloudphone)  
+- Medium: [https://medium.com/@xcloudphone](https://medium.com/@xcloudphone)  
+- Dailymotion: [https://www.dailymotion.com/xcloudphone](https://www.dailymotion.com/xcloudphone)  
+- MySpace: [https://myspace.com/xcloudphone](https://myspace.com/xcloudphone)  
+
+- Instagram: [https://www.instagram.com/xcloudphone/](https://www.instagram.com/xcloudphone/)  
+- Threads: [https://www.threads.com/@xcloudphone](https://www.threads.com/@xcloudphone)  
+- X (Twitter): [https://x.com/XCloudPhone](https://x.com/XCloudPhone)  
+- Pinterest: [https://www.pinterest.com/xcloudphone/](https://www.pinterest.com/xcloudphone/)  
+- Scribd: [https://www.scribd.com/user/872684529/xcloudphone](https://www.scribd.com/user/872684529/xcloudphone)  
+- SoundCloud: [https://soundcloud.com/xcloudphone](https://soundcloud.com/xcloudphone)  
+- Issuu: [https://issuu.com/xcloudphone](https://issuu.com/xcloudphone)  
+
+- Afternic Profile: [https://www.afternic.com/profile/xcloudphone](https://www.afternic.com/profile/xcloudphone)  
+- Hatena Profile: [https://profile.hatena.ne.jp/xcloudphone/](https://profile.hatena.ne.jp/xcloudphone/)  
+
+Connect with us on your favorite platforms to get the latest news, updates, and insights from XCloudPhone!
 
 ## Getting Started with XCloudPhone
 
